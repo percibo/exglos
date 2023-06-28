@@ -110,6 +110,9 @@ button:focus {
     margin: 12px;
     text-align: center;
 }
+.percibo {
+    text-align: center;
+}
 label {
     overflow: hidden;
     display: block;
